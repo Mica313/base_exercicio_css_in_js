@@ -20,5 +20,4 @@ font-size: 18px;
 color: var(--cor-secundaria);
 margin-left: 8px;
 cursor: pointer;
-
 `
